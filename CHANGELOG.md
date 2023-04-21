@@ -1,5 +1,9 @@
 <!--next-version-placeholder-->
 
+## v0.1.2 (2023-04-21)
+### Fix
+* **version:** Disable scm-version ([`a98b319`](https://github.com/entelecheia/dedomenon/commit/a98b319ad21bbc9cef6bcee8aa1722e5a499ac5f))
+
 ## v0.1.1 (2023-04-21)
 ### Fix
 * **version:** Add pre-commit command to make scm-version ([`acd8f84`](https://github.com/entelecheia/dedomenon/commit/acd8f84fe0a41e7d932b3fac9d457c2a307fabb1))
