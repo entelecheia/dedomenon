@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dedomenon"
-version = "0.0.0"
+version = "0.1.3"
 description = "A Python Library for Datasets"
 authors = ["Young Joon Lee <entelecheia@hotmail.com>"]
 license = "MIT"

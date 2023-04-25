@@ -1,5 +1,9 @@
 <!--next-version-placeholder-->
 
+## v0.1.3 (2023-04-25)
+### Fix
+* Apply updated template ([`4d78a86`](https://github.com/entelecheia/dedomenon/commit/4d78a8691c141fd738ef525c4782f3b2e487edd2))
+
 ## v0.1.2 (2023-04-21)
 ### Fix
 * **version:** Disable scm-version ([`a98b319`](https://github.com/entelecheia/dedomenon/commit/a98b319ad21bbc9cef6bcee8aa1722e5a499ac5f))
